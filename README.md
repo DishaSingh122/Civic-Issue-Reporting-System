@@ -1,2 +1,3 @@
-# Civic-Issue-Reporting-System
-A web-based platform designed to empower citizens to report, track, and resolve civic issues in their community. This system provides a simple and transparent way for residents to raise concerns such as potholes, broken streetlights, sanitation problems, or other local infrastructure issues, while enabling authorities to respond efficiently
+# College-Issue-Reporting-System
+A digital platform built to help students, faculty, and staff report and track issues within a college campus. From classroom maintenance to administrative concerns, this system ensures problems are logged, categorized, and resolved efficiently, fostering a more responsive and transparent campus environment.
+
