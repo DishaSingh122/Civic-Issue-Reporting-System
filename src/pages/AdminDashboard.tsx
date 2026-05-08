@@ -212,7 +212,7 @@ const AdminDashboard = () => {
           </Card>
         </div>
 
-        {/* Main Content Tabs */}
+        {}
         <Tabs defaultValue="issues" className="space-y-6">
           <TabsList className="grid w-full grid-cols-4">
             <TabsTrigger value="issues">Issue Management</TabsTrigger>
